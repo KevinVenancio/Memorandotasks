@@ -3,6 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;600&display=swap');
 
+/*arquivos do lista tarefas componente css, mas n couberam la pro build*/
+
+/*fim arquivos do lista tarefas componente css, mas n couberam la pro build*/
+
+
+
 .ff-prompt {
   font-family: 'Prompt', sans-serif;
 }
